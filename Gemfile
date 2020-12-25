@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.2.3'
+ruby '2.7.2'
 
 gem 'active_model_serializers', '~> 0.9.3'
 gem 'acts_as_singleton', '~> 0.0.8'
